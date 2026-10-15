@@ -8,3 +8,9 @@ out
 dep
 .java-version
 stage.yml
+
+# Eclipse / VS Code Java metadata
+.project
+.classpath
+.factorypath
+.settings/
